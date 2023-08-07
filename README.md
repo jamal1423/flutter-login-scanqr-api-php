@@ -1,6 +1,6 @@
 # test_app
 
-![image](https://drive.google.com/file/d/1UYDel_7A8t6svQ0c822qKhKobaJnoD9m/view?usp=drive_link)
+![image](https://drive.google.com/file/d/1UYDel_7A8t6svQ0c822qKhKobaJnoD9m)
 
 A new Flutter project.
 
