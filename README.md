@@ -1,6 +1,6 @@
 # test_app
 
-<img src="http://drive.google.com/uc?export=view&id=1UYDel_7A8t6svQ0c822qKhKobaJnoD9m" alt="Google Logo">
+<img width="100" height="200" src="http://drive.google.com/uc?export=view&id=1UYDel_7A8t6svQ0c822qKhKobaJnoD9m" alt="Google Logo">
 <br>
 <img src="http://drive.google.com/uc?export=view&id=1UY33T7WWQM2Hq_uJ1OcrZuXJuHPHWdIb" alt="Google Logo">
 <br>
